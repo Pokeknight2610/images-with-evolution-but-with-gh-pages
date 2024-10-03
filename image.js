@@ -19,7 +19,7 @@ img.onload = function() {
 }
 
 // ??? why does it work
-img.src = 'https://i.imgur.com/eQxBTwv.png' + '?' + new Date().getTime()
+img.src = 'https://static.wikia.nocookie.net/unoffical-number-lore/images/d/d5/Maxwell.png/revision/latest?cb=20230304033713' + '?' + new Date().getTime()
 
 
 
